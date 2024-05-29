@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T08:48:07.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="7tIaja_RjfLZG3ethjyg" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T08:48:37.132Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="bsjRJLasVtQvCw2uX3Uu" version="24.4.9" type="github">
   <diagram name="第 1 页" id="_Oi1T2eX_YWZHJBG8FeJ">
     <mxGraphModel dx="1195" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="ahvlAM_R0MREE3XYgPcO-21" value="interfaceB" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="50" width="160" height="60" as="geometry" />
+          <mxGeometry x="430" y="30" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ahvlAM_R0MREE3XYgPcO-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="ahvlAM_R0MREE3XYgPcO-21">
           <mxGeometry y="26" width="160" height="8" as="geometry" />
@@ -45,6 +45,17 @@
         </mxCell>
         <mxCell id="ahvlAM_R0MREE3XYgPcO-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ahvlAM_R0MREE3XYgPcO-31" target="ahvlAM_R0MREE3XYgPcO-30">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ahvlAM_R0MREE3XYgPcO-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ahvlAM_R0MREE3XYgPcO-32" target="ahvlAM_R0MREE3XYgPcO-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="510" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="180" />
+              <mxPoint x="511" y="180" />
+              <mxPoint x="511" y="120" />
+              <mxPoint x="510" y="120" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
