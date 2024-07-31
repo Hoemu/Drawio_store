@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-31T01:49:27.516Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="hBMAkbAfpANsx8Jk0x4l" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-31T01:49:51.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="4brAQ7CzeDS7kyjUcJ6s" version="24.6.4" type="github">
   <diagram name="第 1 页" id="UOK6auOPZ1qzzKUoO4ci">
     <mxGraphModel dx="2261" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="0">
       <root>
@@ -9,6 +9,9 @@
         </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-1" value="获取视频流信息" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-2220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Bj3dIAFKUT74Qd342Y-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="B9Bj3dIAFKUT74Qd342Y-2" target="B9Bj3dIAFKUT74Qd342Y-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-2" value="查找视频流信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-2100" width="120" height="60" as="geometry" />
@@ -28,7 +31,8 @@
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9Bj3dIAFKUT74Qd342Y-7" target="B9Bj3dIAFKUT74Qd342Y-9">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-410" y="-1950" />
+              <mxPoint x="-410" y="-1970" />
+              <mxPoint x="-520" y="-1970" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -46,13 +50,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-7" value="是否找到" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-450" y="-2080" width="80" height="80" as="geometry" />
+          <mxGeometry x="-450" y="-2110" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-9" value="查找解码器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-470" y="-1850" width="120" height="60" as="geometry" />
+          <mxGeometry x="-640" y="-2000" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-13" value="退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-300" y="-2070" width="120" height="60" as="geometry" />
+          <mxGeometry x="-290" y="-2100" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
