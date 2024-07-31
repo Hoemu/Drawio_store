@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-31T01:51:40.067Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="qjARv0btnFg937cKXI_7" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-31T01:52:11.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 Edg/127.0.0.0" etag="1Pt6KIbkV01y1n0w0l4E" version="24.6.4" type="github">
   <diagram name="第 1 页" id="UOK6auOPZ1qzzKUoO4ci">
     <mxGraphModel dx="2261" dy="3173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#CCFFFF" math="0" shadow="0">
       <root>
@@ -61,8 +61,14 @@
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-13" value="退出" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-290" y="-2100" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="B9Bj3dIAFKUT74Qd342Y-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B9Bj3dIAFKUT74Qd342Y-22" target="B9Bj3dIAFKUT74Qd342Y-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-22" value="为解码器分配上下文，并参数转换" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-640" y="-1890" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="B9Bj3dIAFKUT74Qd342Y-24" value="打开解码器" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-440" y="-1890" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
