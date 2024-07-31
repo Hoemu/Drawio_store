@@ -67,8 +67,14 @@
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-22" value="为解码器分配上下文，并参数转换" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="-3480" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7-sgf5SAxunqkxhyWpDQ-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="B9Bj3dIAFKUT74Qd342Y-24" target="7-sgf5SAxunqkxhyWpDQ-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="B9Bj3dIAFKUT74Qd342Y-24" value="打开解码器" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="-3480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7-sgf5SAxunqkxhyWpDQ-1" value="分配AV包结构" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-830" y="-3480" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
