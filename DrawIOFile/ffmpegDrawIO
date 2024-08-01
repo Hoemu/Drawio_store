@@ -78,8 +78,14 @@
         <mxCell id="7-sgf5SAxunqkxhyWpDQ-1" value="分配AV包结构" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="-3280" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="pnbgXDqzBYuyVCYKwflI-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7-sgf5SAxunqkxhyWpDQ-3" target="pnbgXDqzBYuyVCYKwflI-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7-sgf5SAxunqkxhyWpDQ-3" value="读取数据存储到AV包中" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1210" y="-3180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pnbgXDqzBYuyVCYKwflI-1" value="对数据进行处理（如保存帧数据）" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-1010" y="-3180" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
