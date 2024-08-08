@@ -57,8 +57,25 @@
         <mxCell id="i2Vtmd1FsmX5xJQIretb-3" value="开始下粉" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="i2Vtmd1FsmX5xJQIretb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-5" target="i2Vtmd1FsmX5xJQIretb-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="i2Vtmd1FsmX5xJQIretb-9" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="i2Vtmd1FsmX5xJQIretb-8">
+          <mxGeometry x="0.0333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="i2Vtmd1FsmX5xJQIretb-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-5" target="i2Vtmd1FsmX5xJQIretb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-5" value="是否大于理论安全体积" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="840" y="330" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="i2Vtmd1FsmX5xJQIretb-7" value="停止下粉" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="980" y="340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="i2Vtmd1FsmX5xJQIretb-10" value="开始混粉（启动混粉震动发生器）" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="500" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
