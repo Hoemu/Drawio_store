@@ -94,7 +94,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ac16amCMM2_NTO8DhcS-2" value="开始清理粉" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="_ac16amCMM2_NTO8DhcS-2" value="开始清粉" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="320" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
