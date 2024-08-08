@@ -121,8 +121,14 @@
         <mxCell id="i2Vtmd1FsmX5xJQIretb-19" value="开始下粉" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="820" y="940" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_ac16amCMM2_NTO8DhcS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ac16amCMM2_NTO8DhcS-0" target="_ac16amCMM2_NTO8DhcS-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_ac16amCMM2_NTO8DhcS-0" value="开始打印" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="820" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ac16amCMM2_NTO8DhcS-2" value="开始清理粉" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="820" y="1220" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
