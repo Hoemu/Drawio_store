@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-0" value="输入" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="60" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-3" target="i2Vtmd1FsmX5xJQIretb-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-3" value="开始下粉" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="200" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-5" target="i2Vtmd1FsmX5xJQIretb-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -33,28 +33,28 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-5" value="是否大于理论安全体积" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="840" y="330" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="310" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-7" value="停止下粉" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="980" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="480" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-10" target="i2Vtmd1FsmX5xJQIretb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-10" value="开始混粉（启动混粉震动发生器）" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="500" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-12" target="i2Vtmd1FsmX5xJQIretb-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-12" value="开始接粉" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="640" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-14" target="i2Vtmd1FsmX5xJQIretb-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="960" y="810" />
-              <mxPoint x="960" y="670" />
+              <mxPoint x="460" y="790" />
+              <mxPoint x="460" y="650" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -72,22 +72,30 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-14" value="是否运行四次" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="840" y="770" width="80" height="80" as="geometry" />
+          <mxGeometry x="340" y="750" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="_ac16amCMM2_NTO8DhcS-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="i2Vtmd1FsmX5xJQIretb-19" target="_ac16amCMM2_NTO8DhcS-0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="i2Vtmd1FsmX5xJQIretb-19" value="开始下粉" style="whiteSpace=wrap;html=1;rounded=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="820" y="940" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="920" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ac16amCMM2_NTO8DhcS-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ac16amCMM2_NTO8DhcS-0" target="_ac16amCMM2_NTO8DhcS-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_ac16amCMM2_NTO8DhcS-0" value="开始打印" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1060" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_ac16amCMM2_NTO8DhcS-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="_ac16amCMM2_NTO8DhcS-2" target="i2Vtmd1FsmX5xJQIretb-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="1230" />
+              <mxPoint x="140" y="210" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="_ac16amCMM2_NTO8DhcS-2" value="开始清理粉" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="820" y="1220" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
